@@ -1,0 +1,26 @@
+/*/ start count stats /*/
+
+#counter-stats {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+  padding-bottom: 4rem;
+}
+
+.stats {
+  text-align: center;
+  font-size: 35px;
+  font-weight: 700;
+  font-family: "Montserrat", sans-serif;
+}
+
+.stats .fa {
+  color: #ffbd50;
+  font-size: 60px;
+}
+
+.counting {
+  padding-top: 1rem;
+}
+
+/*/ end count stats /*/
